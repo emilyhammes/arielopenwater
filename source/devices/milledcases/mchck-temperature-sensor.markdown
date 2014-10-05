@@ -1,6 +1,10 @@
 ---
 layout: page
 ---
-instuucitons on how to mill the case
+## Instructions on how to mill the case
 
-files
+TBD
+
+## Sources
+
+[latest Solidworks source files](https://github.com/emilyhammes/arielopenwater/archive/master.zip)
