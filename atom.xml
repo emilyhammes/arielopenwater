@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ariel Open Water]]></title>
-  <link href="http://emilyhammes.github.io/arielopenwater/atom.xml" rel="self"/>
-  <link href="http://emilyhammes.github.io/arielopenwater/"/>
-  <updated>2014-10-05T23:00:45+02:00</updated>
-  <id>http://emilyhammes.github.io/arielopenwater/</id>
+  <link href="http://arielopenwater.org/atom.xml" rel="self"/>
+  <link href="http://arielopenwater.org/"/>
+  <updated>2014-10-05T23:08:34+02:00</updated>
+  <id>http://arielopenwater.org/</id>
   <author>
     <name><![CDATA[Emily Hammes]]></name>
     
