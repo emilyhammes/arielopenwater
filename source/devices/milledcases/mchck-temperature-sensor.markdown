@@ -3,7 +3,7 @@ layout: page
 ---
 ## Instructions on how to mill the case
 
-TBD
+Coming Soon
 
 ## Sources
 
