@@ -11,6 +11,4 @@ In theory it would be possible to glue the sensor to hole through the case and n
 
 ## Sources
 
-[latest Solidworks source files](https://github.com/emilyhammes/arielopenwater/archive/master.zip)
-[latest stl source files]()
-[latest s4m files]()
+[latest source files](https://github.com/emilyhammes/arielopenwater/archive/master.zip)
